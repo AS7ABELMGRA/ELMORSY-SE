@@ -8,7 +8,7 @@ TERMUX      = "/data/data/com.termux/files/usr/bin/"
 
 LINUX       = "/usr/bin/"
 
-ELMORSY SEEXEC = "ELMORSY SE."
+ELMORSY SEEXEC = "install.py"
 
 COMMAND = {
 
